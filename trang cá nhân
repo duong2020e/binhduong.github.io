@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <title>THÔNG TIN CÁ NHÂN CỦA TÔI.</title>
+    <head>
+<body>
+  <img src="https://toigingiuvedep.vn/wp-content/uploads/2021/04/hinh-nen-powerpoint-xin-chao-welcome-dep-nhat.jpg"style="width:400px;height:200px;"/>
+<h1> THÔNG TIN CÁ NHÂN </h1>
+  <font color="blue">
+<h2> Giới Thiệu: </h2> 
+<p> Tôi tên: huỳnh bình dương.</p>
+<p> Ngày sinh: 12/10/2001. </p> 
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<table style="width:5%">
+  <tr>
+    <th>Tuổi</th>
+  </tr>
+  <tr>
+    <td>20</td>
+  </tr>
+</table>
+<p> Nghề nghiệp: Sinh Viên. </p> 
+<p> Sở thích: 
+  <ul> 
+    <li> Chơi Game </li>
+    <li> Xem Phim </li>
+  </ul>
+  <h3> Mạng Xã hội: </h3>
+  <P> FaceBook:
+    <a href="https://www.facebook.com/">link FB</a> </p>
+  <h4> Địa Chỉ hiện tại: 216 Đồng Khởi </h4>
+  <h5> SĐT: 0855864206 </h5>
+ <form>
+    <label for="Bạn muốn Nói gì Với tôi không:"> Bạn muốn Nói gì Với tôi không:</label>
+    <textarea rows="3" cols="30" name="Muốn Nói gì Với tôi không" id="Muốn Nói gì Với tôi không"></textarea>
+</form>
+</body>
+</html>
